@@ -24,7 +24,7 @@
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pip2 install gtts && pkg install python2 && git clone https://github.com/darkhunter141/Termux-Assistant && cd sdcard Termux-Assistant && python2 main.py
+pip2 install gtts && pkg install python2 && git clone https://github.com/darkhunter141/Termux-Assistant && cd Termux-Assistant && python2 main.py
 
 ```
 <br>
