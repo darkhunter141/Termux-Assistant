@@ -4,7 +4,6 @@
 
 <h3><b>Installation : </b></h3>
 <br>
-```
  pip2 install gtts
 ```
 ```
