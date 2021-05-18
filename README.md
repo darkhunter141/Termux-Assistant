@@ -4,23 +4,25 @@
 
 <h3><b>Installation : </b></h3>
 <br>
-
+```
+ pip2 install gtts
+```
 ```
  pkg install python2
 ```
 ```
- git clone 
+ git clone https://github.com/darkhunter141/Termux-Assistant
 ```
 ```
- cd 
+ cd Termux-Assistant
 ```
 ```
- python2 
+ python2 main.py
 ```
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pkg install python2 && git clone https://github.com/darkhunter141/ && cd  && python2 i
+pip2 install gtts && pkg install python2 && git clone https://github.com/darkhunter141/Termux-Assistant && cd sdcard Termux-Assistant && python2 main.py
 
 ```
 <br>
